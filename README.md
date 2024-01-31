@@ -6,7 +6,7 @@ This data analysis aims to delve into user interactions and behaviors during the
 
 ![](https://github.com/peacestarr/OnboardingData/blob/main/DATA%20SET.png)
 
-## Problem Statememnt
+## Problem Statement
 - The goal of this analysis is to understand the challenges and frustrations users face during the onboarding process across the various mobile apps, leading to a high drop-off rate. 
 - The current onboarding experience lacks clarity, simplicity, and user engagement, hindering users from seamlessly understanding the app's value proposition and features. 
 - As a result, there is a pressing need to optimize the onboarding journey to enhance user retention and satisfaction.
